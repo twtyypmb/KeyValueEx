@@ -1,0 +1,4 @@
+D:\GitHub\KeyValueEx\KeyValueEx\KeyValueLibary\bin\Debug\KeyValueLibary.dll
+D:\GitHub\KeyValueEx\KeyValueEx\KeyValueLibary\bin\Debug\KeyValueLibary.pdb
+D:\GitHub\KeyValueEx\KeyValueEx\KeyValueLibary\obj\Debug\KeyValueLibary.dll
+D:\GitHub\KeyValueEx\KeyValueEx\KeyValueLibary\obj\Debug\KeyValueLibary.pdb
